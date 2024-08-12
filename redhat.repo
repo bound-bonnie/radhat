@@ -1,0 +1,6 @@
+[base]
+name=Base
+enabled=1
+baseurl=file:///media/cdrom
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
